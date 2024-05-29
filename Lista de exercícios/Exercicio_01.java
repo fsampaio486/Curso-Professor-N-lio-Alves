@@ -1,9 +1,8 @@
 package Modulo;
 
 /*
- * Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa.
- * 
- */
+ Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa.
+*/
 
 import java.util.Scanner;
 
